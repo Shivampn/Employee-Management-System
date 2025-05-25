@@ -18,17 +18,17 @@ These operations are fully functional and interact with a **MySQL database** in 
 - **Database:** MySQL
 - **Tools:** Spring Tool Suite (STS)
 ---
-1>Index
+
 ![Screenshot (106)](https://github.com/user-attachments/assets/9b9889ee-7aca-4e13-9bba-fc3dceddfa44)
-2>Add
+
 ![Screenshot (107)](https://github.com/user-attachments/assets/679f63c1-1687-42d1-bedc-4a7a7895c5dc)
-3>Update
+
 ![Screenshot (108)](https://github.com/user-attachments/assets/651c4cdc-36b6-4f3b-b7ed-56915db4a5e8)
-4>Delete
+
 ![Screenshot (109)](https://github.com/user-attachments/assets/fe255199-1faa-4c13-b189-62815ec94834)
-5>Fetch
+
 ![Screenshot (111)](https://github.com/user-attachments/assets/eac69372-981f-45f9-a6a6-78b86441814c)
-6>Search
+
 ![Screenshot (110)](https://github.com/user-attachments/assets/5480ba83-fba6-4ecf-95c4-0350ce8e87c5)
 
 
