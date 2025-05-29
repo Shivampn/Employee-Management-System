@@ -18,14 +18,13 @@ These operations are fully functional and interact with a **MySQL database** in 
 - **Database:** MySQL
 - **Tools:** Spring Tool Suite (STS)
 ---
+![Screenshot (119)](https://github.com/user-attachments/assets/8eaea063-afb6-4ee1-a165-0ed6cc529178)
+![Screenshot (113)](https://github.com/user-attachments/assets/3b53863c-2008-4675-9525-9f4301f1b285)
+![Screenshot (114)](https://github.com/user-attachments/assets/f10db4ae-fac7-4a48-8bc0-b1d8581730e3)
+![Screenshot (117)](https://github.com/user-attachments/assets/070defb1-4df0-4398-b595-80c293b6be3e)
+![Screenshot (115)](https://github.com/user-attachments/assets/6131f99c-6a53-4601-ad50-3c60a9804416)
+![Screenshot (116)](https://github.com/user-attachments/assets/edd425c0-adf0-4c30-82f3-918a580ff1dc)
 
-![Screenshot (106)](https://github.com/user-attachments/assets/9b9889ee-7aca-4e13-9bba-fc3dceddfa44)
-
-![Screenshot (107)](https://github.com/user-attachments/assets/679f63c1-1687-42d1-bedc-4a7a7895c5dc)
-
-![Screenshot (108)](https://github.com/user-attachments/assets/651c4cdc-36b6-4f3b-b7ed-56915db4a5e8)
-
-![Screenshot (109)](https://github.com/user-attachments/assets/fe255199-1faa-4c13-b189-62815ec94834)
 
 ![Screenshot (111)](https://github.com/user-attachments/assets/eac69372-981f-45f9-a6a6-78b86441814c)
 
