@@ -26,8 +26,4 @@ These operations are fully functional and interact with a **MySQL database** in 
 ![Screenshot (116)](https://github.com/user-attachments/assets/edd425c0-adf0-4c30-82f3-918a580ff1dc)
 
 
-![Screenshot (111)](https://github.com/user-attachments/assets/eac69372-981f-45f9-a6a6-78b86441814c)
-
-![Screenshot (110)](https://github.com/user-attachments/assets/5480ba83-fba6-4ecf-95c4-0350ce8e87c5)
-
 
